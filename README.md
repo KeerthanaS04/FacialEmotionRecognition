@@ -1,3 +1,5 @@
+# Sales Insights Data Analysis
+
 – Developed a Facial Emotion Recognition model utilizing Convolutional layers, Separable Conv2D, and
 Batch Normalization techniques, with an accuracy of **89%**
 
